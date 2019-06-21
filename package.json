@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "private": true,
+  "author": "sapphi-red <green@sapphi.red>",
+  "description": "An example bot using hubot-traq with typescript.",
+  "dependencies": {
+    "@types/hubot": "^2.19.5",
+    "hubot": "^3.3.2",
+    "hubot-traq": "^1.2.0",
+    "typescript": "^3.5.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
